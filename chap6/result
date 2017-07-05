@@ -1,0 +1,67 @@
+Extracting MNIST_data/train-images-idx3-ubyte.gz
+Extracting MNIST_data/train-labels-idx1-ubyte.gz
+Extracting MNIST_data/t10k-images-idx3-ubyte.gz
+Extracting MNIST_data/t10k-labels-idx1-ubyte.gz
+(13000, 784)
+Pretraining:: layer: 1, Epoch: 1, Error: 108.197319
+Pretraining:: layer: 1, Epoch: 2, Error: 92.973862
+Pretraining:: layer: 1, Epoch: 3, Error: 86.628403
+Pretraining:: layer: 1, Epoch: 4, Error: 88.983963
+Pretraining:: layer: 1, Epoch: 5, Error: 88.233437
+Pretraining:: layer: 1, Epoch: 6, Error: 82.720589
+Pretraining:: layer: 1, Epoch: 7, Error: 81.816673
+Pretraining:: layer: 1, Epoch: 8, Error: 78.910172
+Pretraining:: layer: 1, Epoch: 9, Error: 79.176628
+Pretraining:: layer: 1, Epoch: 10, Error: 81.460999
+Pretraining:: layer: 2, Epoch: 1, Error: 87.151237
+Pretraining:: layer: 2, Epoch: 2, Error: 76.569984
+Pretraining:: layer: 2, Epoch: 3, Error: 73.016380
+Pretraining:: layer: 2, Epoch: 4, Error: 72.528984
+Pretraining:: layer: 2, Epoch: 5, Error: 69.329826
+Pretraining:: layer: 2, Epoch: 6, Error: 70.971642
+Pretraining:: layer: 2, Epoch: 7, Error: 68.652794
+Pretraining:: layer: 2, Epoch: 8, Error: 70.486076
+Pretraining:: layer: 2, Epoch: 9, Error: 67.540001
+Pretraining:: layer: 2, Epoch: 10, Error: 69.651909
+Pretraining:: layer: 3, Epoch: 1, Error: 99.596245
+Pretraining:: layer: 3, Epoch: 2, Error: 100.138435
+Pretraining:: layer: 3, Epoch: 3, Error: 92.548149
+Pretraining:: layer: 3, Epoch: 4, Error: 91.300499
+Pretraining:: layer: 3, Epoch: 5, Error: 89.977592
+Pretraining:: layer: 3, Epoch: 6, Error: 90.927475
+Pretraining:: layer: 3, Epoch: 7, Error: 89.913864
+Pretraining:: layer: 3, Epoch: 8, Error: 89.018188
+Pretraining:: layer: 3, Epoch: 9, Error: 92.298721
+Pretraining:: layer: 3, Epoch: 10, Error: 93.245621
+EPOCH: 1, Validation cost: 0.356 Validation F1: 0.901
+EPOCH: 2, Validation cost: 0.270 Validation F1: 0.920
+EPOCH: 3, Validation cost: 0.231 Validation F1: 0.929
+EPOCH: 4, Validation cost: 0.206 Validation F1: 0.936
+EPOCH: 5, Validation cost: 0.188 Validation F1: 0.941
+EPOCH: 6, Validation cost: 0.174 Validation F1: 0.945
+EPOCH: 7, Validation cost: 0.163 Validation F1: 0.950
+EPOCH: 8, Validation cost: 0.152 Validation F1: 0.953
+EPOCH: 9, Validation cost: 0.145 Validation F1: 0.956
+EPOCH: 10, Validation cost: 0.139 Validation F1: 0.956
+EPOCH: 11, Validation cost: 0.131 Validation F1: 0.959
+EPOCH: 12, Validation cost: 0.126 Validation F1: 0.960
+EPOCH: 13, Validation cost: 0.122 Validation F1: 0.961
+EPOCH: 14, Validation cost: 0.118 Validation F1: 0.963
+EPOCH: 15, Validation cost: 0.114 Validation F1: 0.962
+EPOCH: 16, Validation cost: 0.110 Validation F1: 0.965
+EPOCH: 17, Validation cost: 0.108 Validation F1: 0.962
+EPOCH: 18, Validation cost: 0.106 Validation F1: 0.964
+EPOCH: 19, Validation cost: 0.104 Validation F1: 0.964
+EPOCH: 20, Validation cost: 0.102 Validation F1: 0.965
+EPOCH: 21, Validation cost: 0.098 Validation F1: 0.966
+EPOCH: 22, Validation cost: 0.096 Validation F1: 0.967
+EPOCH: 23, Validation cost: 0.095 Validation F1: 0.967
+EPOCH: 24, Validation cost: 0.094 Validation F1: 0.969
+EPOCH: 25, Validation cost: 0.092 Validation F1: 0.968
+EPOCH: 26, Validation cost: 0.091 Validation F1: 0.969
+EPOCH: 27, Validation cost: 0.090 Validation F1: 0.969
+EPOCH: 28, Validation cost: 0.088 Validation F1: 0.970
+EPOCH: 29, Validation cost: 0.088 Validation F1: 0.970
+EPOCH: 30, Validation cost: 0.087 Validation F1: 0.970
+(13000,)
+0.973621467585
